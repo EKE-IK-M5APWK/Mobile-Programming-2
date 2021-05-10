@@ -13,6 +13,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     MyViewModel myViewModel;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

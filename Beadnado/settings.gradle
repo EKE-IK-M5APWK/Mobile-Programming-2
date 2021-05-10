@@ -1,0 +1,2 @@
+rootProject.name = "Mobilprog2_beadando"
+include ':app'

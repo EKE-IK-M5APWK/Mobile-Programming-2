@@ -13,6 +13,7 @@ public class MyLifecycleObserver implements LifecycleObserver {
     @OnLifecycleEvent(Lifecycle.Event.ON_START)
     public void start(){
         Log.d(TAG, "started ...");
+        Lifecycle.State.
     };
 
     @OnLifecycleEvent(Lifecycle.Event.ON_STOP)
